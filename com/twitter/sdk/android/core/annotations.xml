@@ -1,0 +1,5 @@
+<root>
+    <item name='com.twitter.sdk.android.core.TwitterCore'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

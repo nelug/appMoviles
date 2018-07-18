@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMoviles</string>
+    <string name="facebook_app_id">268691870569599</string>
+    <string name="fb_login_protocol_scheme">fb268691870569599</string>
+    <string name="server_client_id">312164541003-jvrmrkdqa9m70sk2j533man8e2ua835h.apps.googleusercontent.com</string>
+    <string name="signing_in" />
+</resources>
